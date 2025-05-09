@@ -2,6 +2,9 @@
 
 This is a simple example project demonstrating WebSocket implementation in NativeScript Vue. The project shows how to establish WebSocket connections, send messages, and handle incoming messages in a NativeScript Vue application.
 
+## Screenshots
+![App Screenshot](./imgs/screenshot.png)
+
 ## Features
 
 - WebSocket connection management
